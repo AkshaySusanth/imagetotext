@@ -1,0 +1,18 @@
+body {
+    background-image: url('bgm1.jpg');
+    background-size: cover;
+    background-color : #484848;
+    margin: 100;
+    padding: 100;
+}
+h1 {
+    color : grey;
+    text-align : center;
+    vertical-align: middle;
+    font-family: "SIMPSON";
+}
+form {
+    height: 10px;
+    width: 400px;
+    margin: 0 auto;
+}
